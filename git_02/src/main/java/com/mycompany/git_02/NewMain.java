@@ -8,6 +8,7 @@ package com.mycompany.git_02;
 /**
  *
  * @author RuiTorres
+ *         RuiFernandes
  */
 public class NewMain {
 
